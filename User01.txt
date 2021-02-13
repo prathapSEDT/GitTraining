@@ -1,1 +1,2 @@
 Git training session
+i am user1 , doing my changes
